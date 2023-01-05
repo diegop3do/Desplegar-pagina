@@ -37,11 +37,11 @@
     font-family: 'Poppins', sans-serif;
     color: white;
     font-weight: 500;
-    font-size: 1.5vw;
+    font-size: 2vw;
 }
 .imagenGatito{
     height: 40vh;
-    width: 20vw;
+    width: 25vw;
 }
 /* generamos la animación del texto principal */
 .titleMiPrimerProyecto {
@@ -226,4 +226,67 @@
               transform: rotate(2deg);
     }
   }
-  
+
+@media (max-width:1000px){
+        .contendTitleContend{
+                gap: 3rem;
+        }
+
+        .contendTitleImg{
+                height: 50vh;
+                width: 25vw;
+        }
+
+        .imagenGatito{
+                height: 30vh;
+                width: 20vw;
+        }
+
+        .titleGatitosPros{
+                font-size: 1.5vw;
+        }
+}
+
+@media (max-width:800px){
+        .contendTitleContend{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 2rem;
+        }
+
+        .titleMiPrimerProyecto{
+                text-align: center;
+        }
+
+        .contendTitleImg{
+                height: 50vh;
+                width: 30vw;
+        }
+
+        .titleGatitosPros{
+                font-size: 2vw;
+        }
+
+        .imagenGatito{
+                height: 25vh;
+                width: 20vw;
+        }
+}
+
+@media (max-width:500px){
+        .contendTitleImg{
+                height: 40vh;
+                width: 25vw;
+        }
+
+        .titleGatitosPros{
+                font-size: 1.5vw;
+        }
+
+        .imagenGatito{
+                height: 25vh;
+                width: 20vw;
+        }
+}
