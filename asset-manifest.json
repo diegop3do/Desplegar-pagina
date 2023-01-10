@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Desplegar-pagina/static/css/main.cfd13d0d.css",
+    "main.css": "/Desplegar-pagina/static/css/main.a62bf212.css",
     "main.js": "/Desplegar-pagina/static/js/main.d2fcf674.js",
     "static/js/787.cffd28e9.chunk.js": "/Desplegar-pagina/static/js/787.cffd28e9.chunk.js",
     "static/media/gatito-cesped_0.jpg": "/Desplegar-pagina/static/media/gatito-cesped_0.bc9517bbe090477a3b24.jpg",
     "static/media/logo.svg": "/Desplegar-pagina/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Desplegar-pagina/index.html",
-    "main.cfd13d0d.css.map": "/Desplegar-pagina/static/css/main.cfd13d0d.css.map",
+    "main.a62bf212.css.map": "/Desplegar-pagina/static/css/main.a62bf212.css.map",
     "main.d2fcf674.js.map": "/Desplegar-pagina/static/js/main.d2fcf674.js.map",
     "787.cffd28e9.chunk.js.map": "/Desplegar-pagina/static/js/787.cffd28e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfd13d0d.css",
+    "static/css/main.a62bf212.css",
     "static/js/main.d2fcf674.js"
   ]
 }
